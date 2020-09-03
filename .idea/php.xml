@@ -12,5 +12,5 @@
       </PhpSdkConfig>
     </sdk>
   </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.3.0" />
 </project>
-

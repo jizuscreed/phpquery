@@ -1,3 +1,9 @@
+### What this fork created for
+
+Original repo ([electrolinux/phpquery](https://github.com/electrolinux/phpquery)) is not compatible with php7.x and throws "Array and string offset access syntax with curly braces is deprecated". This repo fixes this trouble, enjoy
+
+There is original readme below:
+
 ## phpQuery, one more fork!
 
 **Note:** _I haven't used this package since many years, and just recently looked at the code: this is scary, buggy and unfinished. Please don't use it on any production server!_
